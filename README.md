@@ -54,5 +54,14 @@ Sql_Data_Warehouse_Project/
 │   └── check_Silver_layer.sql
 └── README.md
 ```
+## How to Run
 
+1. Clone this repository.
+2. Open SQL Server Management Studio (SSMS).
+3. Execute `init_database.sql` to create the database.
+4. Execute the SQL scripts in the following order:
+   - Bronze Layer
+   - Silver Layer
+   - Gold Layer
+5. Run the validation scripts in the `test` directory.
 
