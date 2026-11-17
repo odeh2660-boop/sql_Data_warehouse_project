@@ -23,6 +23,7 @@ and integrated into a business ready-analytical view in the Gold layer.
 
 
 
+
 Sql_Data_Warehouse_Project/
 │
 ├── dataset/
@@ -51,4 +52,5 @@ Sql_Data_Warehouse_Project/
 │   └── check_Silver_layer.sql
 │
 └── README.md
+
 
