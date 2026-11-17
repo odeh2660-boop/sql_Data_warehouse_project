@@ -10,7 +10,7 @@ and integrated into a business ready-analytical view in the Gold layer.
 - sql server 
 - draw.io
 ## Data Architecture 
-![live dome](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTByjzrUobvUcEUdkivd0JZ8Wz7qay_CF7zkVeli3LtQA&s=10)
+![live dome](https://github.com/odeh2660-boop/sql_Data_warehouse_project/blob/main/docs/Data_Architecture.png?raw=true)
 
 
 ## Data Warehouse Design 
