@@ -24,33 +24,32 @@ and integrated into a business ready-analytical view in the Gold layer.
 
 
 
+
+## Project Structure
+
+```text
 Sql_Data_Warehouse_Project/
-│
 ├── dataset/
 │   ├── Source_crm/
 │   │   ├── cust_info
 │   │   ├── prd_info
 │   │   └── sales_details
-│   │
 │   └── Source_erp/
 │       ├── CUST_AZ12
 │       ├── LOC_A101
 │       └── PX_CAT_G1V2
-│
 ├── script/
 │   ├── init_database
 │   ├── Bronze_Layer/
 │   ├── Silver_Layer/
 │   └── Gold_Layer/
-│
 ├── docs/
 │   ├── Data_Architecture.png
 │   └── Data_Flowchart.png
-│
 ├── test/
 │   ├── check_Bronze_layer.sql
 │   └── check_Silver_layer.sql
-│
 └── README.md
+```
 
 
